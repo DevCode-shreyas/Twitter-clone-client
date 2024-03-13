@@ -68,6 +68,7 @@ export default function Home() {
         </div>
         <div className=" col-span-6 border-r-[1px] border-l-[1px] border-white"></div>
         <div className=" col-span-2">2</div>
+        <div className=" col-span-2">2</div>
       </div>
     </div>
   );
