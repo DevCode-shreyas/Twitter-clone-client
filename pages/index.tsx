@@ -61,8 +61,8 @@ export default function Home() {
                   className=" flex justify-start items-center gap-4 hover:bg-gray-800 rounded-full px-5 py-2 w-fit cursor-pointer mt-2 transition-all"
                   key={item.title}
                 >
-                  {/* <span>{item.icon}</span>
-                  <span>{item.title}</span> */}
+                  <span>{item.icon}</span>
+                  <span>{item.title}</span>
                 </li>
               ))}
             </ul>
